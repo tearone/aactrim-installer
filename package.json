@@ -1,6 +1,6 @@
 {
   "name": "@aactrim-installer/aactrim",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "types": "types/index.d.ts",
   "repository": "https://github.com/tearone/aactrim-installer",
