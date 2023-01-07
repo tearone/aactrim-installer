@@ -1,6 +1,6 @@
 {
   "name": "@aactrim-installer/linux-x64",
-  "version": "1.6.0-2",
+  "version": "1.6.1",
   "scripts": {
     "postinstall": "chmod u+x aac_trim"
   },
