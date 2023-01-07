@@ -1,0 +1,17 @@
+{
+  "name": "@aactrim-installer/aactrim",
+  "version": "1.0.0",
+  "main": "index.js",
+  "types": "types/index.d.ts",
+  "repository": "https://github.com/tearone/aactrim-installer",
+  "author": "55nknown",
+  "license": "MIT",
+  "devDependencies": {
+    "tsd": "^0.22.0",
+    "typescript": "^4.7.4"
+  },
+  "optionalDependencies": {
+    "@aactrim-installer/linux-x64": "1.0.0",
+    "@aactrim-installer/darwin-arm64": "1.0.0"
+  }
+}

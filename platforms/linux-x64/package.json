@@ -1,0 +1,15 @@
+{
+  "name": "@aactrim-installer/linux-x64",
+  "version": "1.6.0-2",
+  "scripts": {
+    "postinstall": "chmod u+x aac_trim"
+  },
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "author": "55nknown",
+  "license": "MIT"
+}
