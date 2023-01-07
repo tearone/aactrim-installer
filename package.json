@@ -11,7 +11,7 @@
     "typescript": "^4.7.4"
   },
   "optionalDependencies": {
-    "@aactrim-installer/linux-x64": "1.0.0",
-    "@aactrim-installer/darwin-arm64": "1.0.0"
+    "@aactrim-installer/linux-x64": "1.6.0-2",
+    "@aactrim-installer/darwin-arm64": "1.6.0-2"
   }
 }
